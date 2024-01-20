@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenwellSolutionTest", "SenwellSolutionTest\SenwellSolutionTest.csproj", "{DDCEB8B8-1FA7-4D58-80FC-9D0BB4986275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDCEB8B8-1FA7-4D58-80FC-9D0BB4986275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCEB8B8-1FA7-4D58-80FC-9D0BB4986275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCEB8B8-1FA7-4D58-80FC-9D0BB4986275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCEB8B8-1FA7-4D58-80FC-9D0BB4986275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED83C892-4C9A-44F0-9BF7-4CF9E4C3E4CF}
+	EndGlobalSection
+EndGlobal
